@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AzatovAlisher
+- 👀 I’m interested in games
+- 🌱 I'm currently learning Java
+- 📫 How to reach me tg @alisherazatov
+- ⚡ Fun fact: I know frontend,python,c++,c,c#.
